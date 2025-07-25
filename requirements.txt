@@ -1,6 +1,6 @@
 streamlit
-pandas==2.0.3
-scikit-learn==1.3.2
-nltk==3.8.1
+pandas
+scikit-learn
+nltk
 pillow
 pytesseract
