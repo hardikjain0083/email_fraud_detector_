@@ -1,1 +1,10 @@
 tesseract-ocr
+
+streamlit
+pandas==2.0.3
+scikit-learn==1.3.0
+nltk
+pillow
+pytesseract
+
+
