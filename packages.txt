@@ -1,9 +1,9 @@
 tesseract-ocr
 
 streamlit
-pandas==2.0.3
+pandas==2.2.2
 scikit-learn==1.6.1
-nltk
+nltk==3.9.1
 pillow
 pytesseract
 
