@@ -4,7 +4,7 @@ streamlit
 pandas==2.2.2
 scikit-learn==1.6.1
 nltk==3.9.1
-pillow
-pytesseract
+pillow==11.3.0
+pytesseract==0.3.13
 
 
